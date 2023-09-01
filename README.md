@@ -48,11 +48,3 @@
 </div>
 
 ###
-
-<h3 align="center">< Contributions ></h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/p1shi/p1shi/output/snake.svg" alt="Snake animation" />
-
-###
